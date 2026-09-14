@@ -1,4 +1,4 @@
-# SOFTWARE DE GESTION EMPRESARIAL - TINOPROP - CRM INMOBILIARIO
+# SOFTWARE DE GESTIÓN EMPRESARIAL - TINOPROP - CRM INMOBILIARIO - PLATAFORMA TODO EN UNO.
 
 Problema: Una inmobiliaria utiliza WhatsApp, Excel, carpetas, Google Drive, portales inmobiliarios, calendario y diferentes herramientas para gestionar clientes y propiedades.
 
@@ -25,6 +25,7 @@ Solución: Crear un CRM que incluya todo eso en una misma plataforma.
 		-	Aplicación móvil.
 		-	API.
 		-	Notificaciones.
+		-	Chatbot con IA
 	
 -	El CRM tendría que responder a cinco preguntas:
 
@@ -33,3 +34,16 @@ Solución: Crear un CRM que incluya todo eso en una misma plataforma.
 		-	¿Qué propiedades pueden encajar?
 		-	¿En qué estado está la operación?
 		-	¿Qué tiene que hacer el agente ahora?
+
+---
+
+##HABLAR CON FRANCO POR LA APP CON SENSORES DE RIEGO, CON LOS DISPOSITIVOS QUE MIDEN ESTOS DATOS.
+
+LOS SENSORES LEEN LOS DATOS --> LOS ENVIA A LA APP DE GESTION DEL RIEGO --> LA APP EVALUA LOS DATOS Y EJECUTA UNA ACCION POR LOS MISMOS.
+
+-	INVESTIGAR LA POSIBILIDAD.
+-	¿COMO SE PROGRAMARIAN LOS DISPOSITIVOS?
+-	¿CUALES SON LOS DISPOSITIVOS?
+-	APP WEB DONDE SALEN TODOS LOS DATOS.
+-	APP MOVIL PARA VER LAS ACCIONES Y EJECUTAR.
+
