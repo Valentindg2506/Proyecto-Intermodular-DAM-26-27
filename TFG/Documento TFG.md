@@ -80,27 +80,101 @@ Como orientación, una extensión aproximada de una página suele ser suficiente
 
 # 2. Identificación de necesidades del sector productivo
 
-El primer resultado de aprendizaje consiste en **identificar necesidades del sector productivo y relacionarlas con proyectos que puedan satisfacerlas**.
+*El sector del software inmobiliario (conocido como **PropTech**) en España, y con fuerte presencia en la Comunidad Valenciana, cuenta con un ecosistema de empresas que ofrecen soluciones de gestión. Para comprender la posición en el mercado del proyecto a desarrollar y establecer un análisis comparativo, se detallan a continuación los principales competidores directos, analizando su estructura organizativa y las soluciones tecnológicas que comercializan.*
 
-En esta primera parte debéis demostrar que vuestro proyecto no aparece de forma aislada: existe un contexto profesional, unas empresas, unos usuarios y unas necesidades que justifican la solución que proponéis.
+---
+
+## 1. Inmovilla
+
+* **Características organizativas:**
+  Es una de las empresas tecnológicas más consolidadas a nivel nacional en el sector inmobiliario. Posee una estructura empresarial madura con un amplio equipo de soporte y desarrollo, enfocada en la fidelización a largo plazo de agencias de tamaño medio y grande.
+
+* **Producto o servicio que ofrecen:**
+  Comercializan un CRM en la nube altamente especializado. Su servicio principal destaca por la automatización de procesos, la integración nativa de páginas web para las agencias y, sobre todo, una potente red MLS (bolsa de inmuebles compartida) que permite a diferentes agencias colaborar entre sí.
+
+---
+
+## 2. Auvex
+
+* **Características organizativas:**
+  Se trata de una empresa tecnológica (startup) con sede en Valencia. Su modelo organizativo es ágil, enfocado en el crecimiento mediante un modelo de suscripción mensual (SaaS) accesible y sin permanencia, apuntando a agencias de nueva creación, agentes independientes y pymes locales.
+
+* **Producto o servicio que ofrecen:**
+  Ofrecen un CRM inmobiliario moderno e intuitivo. A diferencia de los CRM tradicionales que actúan como meros almacenes de datos, Auvex centra su producto en la «captación y trabajo de zona», el cruce automático de demandas y el multiposting (publicación simultánea) en portales inmobiliarios.
+
+---
+
+## 3. Idealista Tools
+
+* **Características organizativas:**
+  Es la división de software B2B de la gran corporación Idealista, el portal inmobiliario líder en España. Su estructura organizativa es de gran empresa, con enormes recursos de marketing y una cuota de mercado dominante gracias a la venta cruzada con sus servicios de anuncios.
+
+* **Producto o servicio que ofrecen:**
+  Su CRM se ofrece como un servicio complementario a la publicación en su portal. Su gran ventaja competitiva es la integración directa y las estadísticas de mercado en tiempo real. Sin embargo, como producto de gestión diaria (seguimiento de clientes, automatizaciones complejas de tareas), suele ser menos personalizable que las soluciones de nicho.
+
+---
+
+## 4. Inmotek / Witei
+
+* **Características organizativas:**
+  Empresas tecnológicas de alcance nacional que operan bajo un modelo de innovación continua. Tienen estructuras enfocadas en el desarrollo de funcionalidades escalables y la atención al cliente digitalizada, compitiendo directamente por la modernización del sector.
+
+* **Producto o servicio que ofrecen:**
+  Proporcionan plataformas SaaS integrales que cubren todo el embudo de ventas. Sus productos se caracterizan por el diseño responsive (uso en dispositivos móviles, crucial para agentes a pie de calle), gestión de agendas sincronizadas, envío automatizado de correos/WhatsApp con fichas de inmuebles y gestión documental.
+
 
 ## 2.1. Empresas del sector por sus características organizativas y por el producto o servicio que ofrecen
 
-Investigad empresas que desarrollen productos o presten servicios relacionados con vuestro proyecto.
+*El modelo operativo de las empresas desarrolladoras de software inmobiliario en España, como Aplicaciones Inmovilla SL, Auvex, Witei o Saresoft, evidencia que adoptan una estructura organizativa tecnológica, horizontal y fuertemente enfocada en el modelo SaaS (Software as a Service). Comprender este organigrama es crucial para orientar la arquitectura y viabilidad técnica de nuestro propio producto.*
 
-No se trata únicamente de hacer una lista de empresas. Debéis observar qué hacen, qué tipo de productos o servicios ofrecen, a qué clientes se dirigen y qué características relevantes presentan.
+*A continuación, se detalla la estructura departamental tipo de estas compañías y sus funciones reales en el mercado:*
 
-El objetivo es conocer el sector en el que se situaría vuestro proyecto y disponer de referencias reales con las que poder compararlo.
+---
 
-Podéis estudiar, por ejemplo:
+## 1. Dirección General y Alianzas Estratégicas (CEO / Gerencia)
 
-- actividad principal;
-- productos y servicios;
-- público objetivo;
-- tamaño o ámbito de actuación;
-- modelo de negocio;
-- tecnologías utilizadas cuando sean relevantes;
-- características que diferencian a unas empresas de otras.
+* **Funciones:**
+  Define la visión tecnológica y comercial. En el sector PropTech, la gerencia no solo administra, sino que también establece integraciones y acuerdos estratégicos. Por ejemplo, es el departamento encargado de firmar convenios de colaboración corporativos, como los acuerdos que mantiene Inmotek con la FAI (Federación de Asociaciones Inmobiliarias), o de negociar el acceso a las APIs privadas de los grandes portales, como Idealista o Fotocasa.
+
+---
+
+## 2. Departamento de Desarrollo y Tecnología (CTO / IT)
+
+* **Funciones:**
+  Es el núcleo operativo de la empresa. Ya no se limita únicamente al mantenimiento de bases de datos, sino que se divide en diferentes áreas de innovación y desarrollo:
+
+  * **Ingeniería de Software e Integraciones:**
+    Desarrollo Full-Stack del CRM y mantenimiento de APIs para que las agencias puedan conectar sus propias páginas web, un servicio clave en plataformas como Inmotek y Witei.
+
+  * **Innovación y Automatización (IA):**
+    Como demuestra el caso de Auvex, los equipos de desarrollo actuales dedican recursos específicos a integrar Inteligencia Artificial para la gestión automatizada de leads, respuestas automáticas y cruce inteligente de demandas.
+
+---
+
+## 3. Departamento de Soporte Técnico y Éxito del Cliente (Customer Success)
+
+* **Funciones:**
+  La retención del cliente en un modelo SaaS, normalmente mensualizado y sin permanencia, depende en gran medida de este equipo. La investigación de mercado refleja que los usuarios valoran especialmente la resolución rápida de incidencias.
+
+  Empresas como Witei estructuran este departamento mediante sistemas de ticketing, mientras que otras destacan por ofrecer soporte telefónico directo y asistencia durante el proceso de onboarding, incluyendo la migración de datos desde hojas de Excel o desde un CRM anterior al nuevo sistema.
+
+---
+
+## 4. Departamento de Marketing y Ventas (B2B)
+
+* **Funciones:**
+  Se encarga de la captación de agencias inmobiliarias y agentes independientes. El software se comercializa mediante planes de precios escalables, generalmente basados en el número de usuarios o en la cantidad de inmuebles gestionados.
+
+  Para conseguir nuevos clientes, estas empresas utilizan demostraciones de software en vivo (**demos**), campañas digitales y embudos de conversión orientados a transformar visitantes y clientes potenciales en usuarios del servicio.
+
+---
+
+## 5. Departamento de Producto y UX/UI (Experiencia de Usuario)
+
+* **Funciones:**
+  Analiza el trabajo diario del agente inmobiliario, que en muchas ocasiones desarrolla gran parte de su actividad «a pie de calle», para diseñar interfaces rápidas, intuitivas y adaptadas a dispositivos móviles.
+
+  Su objetivo es evitar que el software funcione únicamente como un «almacén de datos» y conseguir que se convierta en una herramienta proactiva, capaz de facilitar el trabajo del agente y mostrar, por ejemplo, qué clientes debe contactar o qué tareas debe realizar cada día.
 
 ## 2.2. Empresas tipo: estructura organizativa y funciones de los departamentos
 
