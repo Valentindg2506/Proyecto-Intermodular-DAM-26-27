@@ -2,7 +2,7 @@
 
 <br><br><br><br>
 
-<img src="./assets/logo.jpeg" alt="Logo TinoProp" width="180">
+<img src="./assets/logo.jpeg" alt="Logo TinoProp" width="200">
 
 <br><br>
 
