@@ -1,51 +1,60 @@
-# TFG — Desarrollo de Aplicaciones Multiplataforma
+<div align="center">
 
-<br>
+<br><br><br><br>
 
-## **TinoProp**
-
-### CRM para la gestión de inmobiliarias
+<img src="./assets/logo-tinoprop.png" alt="Logo TinoProp" width="180">
 
 <br><br>
 
-**Proyecto de Fin de Grado — 2º DAM**
+# **TINOPROP**
 
----
-
-### 👨‍💻 Autor
-
-**Valentín Antonio De Gennaro**
-
-### 🎓 Ciclo Formativo
-
-**Desarrollo de Aplicaciones Multiplataforma (DAM)**
-
-### 📚 Curso académico
-
-**2026 / 2027**
-
-### 🏫 Centro educativo
-
-**CEAC Formación Profesional**
-
----
-
-<br>
-
-> **TinoProp** es una plataforma CRM orientada a la gestión integral de inmobiliarias, desarrollada como proyecto final del ciclo de Desarrollo de Aplicaciones Multiplataforma.
+### CRM para la gestión de inmobiliarias
 
 <br>
 
 ---
 
-**Tecnologías principales:**
+### **TRABAJO DE FIN DE GRADO**
+
+#### Desarrollo de Aplicaciones Multiplataforma
+
+---
+
+<br><br><br>
+
+**Autor**
+
+### Valentín Antonio De Gennaro
+
+<br>
+
+**Curso académico**
+
+### 2026 / 2027
+
+<br><br>
+
+**Centro educativo**
+
+### CEAC Formación Profesional
+
+<br><br><br><br><br><br>
+
+---
+
+**Tecnologías**
+
 `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript`
 
----
+<br><br>
 
-### 📅 Fecha de entrega
+**Fecha de entrega**
 
-**2027**
+2027
+
+<br><br><br>
+
+</div>
 
 ------------------------------------------------------------------------
 
