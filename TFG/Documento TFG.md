@@ -178,13 +178,37 @@ Como orientación, una extensión aproximada de una página suele ser suficiente
 
 ## 2.2. Empresas tipo: estructura organizativa y funciones de los departamentos
 
-Escoged una o varias empresas representativas del sector y explicad cómo podría organizarse una empresa de ese tipo.
+### 1. Inmovilla (Estructura Tradicional y de Alto Volumen)
+Al ser una de las empresas más antiguas (2006) y con mayor cuota de mercado (más de 5.000 agencias), Inmovilla presenta un organigrama robusto, diseñado para mantener la estabilidad del sistema y dar soporte a un volumen masivo de usuarios.
 
-Debéis identificar sus principales departamentos o áreas y explicar qué función desempeña cada uno.
+*   **Dirección General y Estrategia:** Encargados de la visión de la empresa y del mantenimiento de grandes alianzas comerciales (ej. acuerdos con portales como Idealista o Fotocasa).
+*   **Departamento de Sistemas y Arquitectura de Datos:** Es el núcleo técnico crítico. Su función principal no es solo crear nuevas herramientas, sino mantener la estabilidad de los servidores y gestionar la inmensa base de datos compartida que conforma su principal atractivo: la red MLS (bolsa de inmuebles compartidos).
+*   **Departamento de Soporte Técnico y Fidelización:** Es uno de sus departamentos más grandes. Se dividen en atención telefónica directa, gestión de incidencias técnicas (como caídas en el *multiposting*) y configuración inicial de cuentas y correos para agencias tradicionales.
+*   **Departamento Comercial (Fuerza de Ventas):** Orientado a la captación directa de franquicias y grandes redes inmobiliarias mediante comerciales especializados en B2B.
 
-En una empresa de desarrollo de software podrían existir, por ejemplo, áreas de dirección, análisis, desarrollo, diseño, sistemas, calidad, soporte, comercial o administración. No todas las empresas tendrán necesariamente la misma estructura.
+### 2. Witei (Estructura SaaS Moderna orientada al Producto)
+Witei opera con una estructura típica de las *startups* tecnológicas modernas (SaaS). Su organigrama es horizontal y sitúa al producto y a la experiencia del usuario en el centro de todas las decisiones.
 
-Lo importante es relacionar la organización descrita con la realidad del sector de vuestro proyecto.
+*   **Product Management y Diseño UX/UI:** Son los que "mandan" sobre la evolución de la herramienta. Diseñan la interfaz y deciden qué nuevas funcionalidades se añadirán, dividiendo el producto en "Módulos" (CRM, Creador Web, Marketing).
+*   **Ingeniería de Software (Desarrollo Ágil):** Equipos de programadores *Full-Stack* que trabajan en ciclos cortos (sprints). Se encargan de la programación pura de la aplicación en la nube y de la integración de APIs externas (calendarios, WhatsApp, portales).
+*   **Growth Marketing y Ventas Digitales:** A diferencia de la venta tradicional, este departamento capta clientes mediante embudos de conversión, publicidad digital, *webinars* y ofreciendo periodos de prueba gratuitos (*freemium* o *trials*).
+*   **Customer Success (Éxito del Cliente):** Más que resolver problemas técnicos, su objetivo es educar al usuario. Organizan demostraciones del software y gestionan un avanzado sistema de *ticketing* online y tutoriales automatizados para que el usuario sea lo más autosuficiente posible.
+
+### 3. Auvex (Estructura Ágil orientada a la Innovación y la IA)
+Al ser una empresa más reciente y disruptiva, Auvex minimiza los departamentos tradicionales para volcar la mayoría de sus recursos en el desarrollo tecnológico avanzado y la automatización.
+
+*   **Dirección e Innovación Estratégica (CEO / CTO):** Lideran la hoja de ruta técnica, buscando constantemente cómo aplicar las últimas tecnologías al sector inmobiliario para diferenciarse de los competidores clásicos.
+*   **Departamento de Inteligencia Artificial y Automatización:** Es su principal factor diferenciador. Se dedican exclusivamente a implementar modelos de IA (*Auvex Calling AI*, generadores de texto para descripciones de inmuebles) y a programar flujos de trabajo automatizados para correos y WhatsApp.
+*   **Desarrollo de Software Integrado:** Se encargan de la arquitectura base del CRM, asegurando que las herramientas de IA se comuniquen perfectamente con la base de datos de clientes e inmuebles.
+*   **Marketing Digital y Ventas automatizadas:** Su estructura de ventas requiere menos personal físico, apoyándose en la demostración directa de sus capacidades de automatización para vender planes mensuales sin permanencia.
+
+### 4. Inmotek - Saresoft (Estructura orientada al Servicio y Customización)
+Esta empresa vasca destaca por un organigrama enfocado en el trato cercano y en la personalización tecnológica para cada agencia.
+
+*   **Dirección y Relaciones Institucionales:** Enfocados en cerrar acuerdos directos con asociaciones inmobiliarias (como la FAI), garantizando paquetes de usuarios.
+*   **Desarrollo de Software y API Propia:** Mantienen el *core* del CRM, pero su punto fuerte es el desarrollo y mantenimiento de una API que permite extraer los datos fácilmente.
+*   **Departamento de Desarrollo Web a Medida:** A diferencia de otras empresas que solo dan plantillas web, Inmotek cuenta con un equipo dedicado a diseñar y programar páginas web personalizadas para las inmobiliarias, conectadas a su CRM.
+*   **Soporte y Atención al Cliente Personalizada:** Un equipo altamente valorado por su cercanía, encargado de resolver dudas funcionales del día a día de los agentes de forma rápida y directa.
 
 ## 2.3. Necesidades más demandadas a las empresas
 
