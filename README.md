@@ -1,85 +1,31 @@
-# 🚀 Proyecto Intermodular
+# Proyecto Intermodular · DAM 26/27
 
-Repositorio correspondiente al **Proyecto Intermodular de 2º de DAM (Desarrollo de Aplicaciones Multiplataforma)**.
+Documentación del **Proyecto Intermodular (TFG)** de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM), curso 2026/2027.
 
-En este repositorio se irá desarrollando y documentando el proyecto realizado durante el curso **2026-2027**, integrando los conocimientos adquiridos en las diferentes asignaturas del ciclo.
+## De qué trata
 
----
+El Proyecto Intermodular es el trabajo final del ciclo: un proyecto propio que reúne lo aprendido en todas las asignaturas, desde el análisis y el diseño hasta la programación, los datos, la interfaz, las pruebas y la documentación.
 
-## 📖 Contenido
+Mi proyecto es un **CRM inmobiliario** para agencias y agentes, con inteligencia artificial integrada, pensado para que no dependan de otras apps ni del papel y para venderse por suscripción mensual a varias agencias.
 
-En este repositorio se irá guardando todo lo relacionado con el desarrollo del proyecto:
+## Qué hay en el repositorio
 
-* 💻 Código fuente
-* 📝 Documentación
-* 🗄️ Base de datos
-* 🎨 Diseño de interfaces
-* 📱 Aplicación multiplataforma
-* 🔐 Seguridad
-* 🧪 Pruebas y correcciones
-* 📊 Análisis y planificación
-* 📑 Documentación técnica
-* 🎥 Presentaciones y material de apoyo
+Este repositorio recoge la parte de investigación y documentación del proyecto, dentro de `TFG/`:
 
----
+| Archivo | Contenido |
+|---|---|
+| `001-Ideas.md` | Ideas iniciales y elección del proyecto. |
+| `002-Informe CRMS.md` | Análisis de los CRM inmobiliarios que ya existen: qué ofrecen y qué les falta. |
+| `Documento TFG.md` | La memoria del proyecto. |
+| `assets/` | Imágenes y recursos de la documentación. |
 
-## 📂 Estructura
+El código de la aplicación (API REST en PHP y MySQL y cliente web) se desarrolla en su propio repositorio, **PI-II-CRM**.
 
-```text id="q7j2kf"
-Proyecto-Intermodular-DAM/
-│
-├── Documentacion/
-│
-├── Codigo/
-│
-├── Base-de-Datos/
-│
-├── Recursos/
-│
-├── Pruebas/
-│
-└── README.md
-```
+## Estado
 
-La estructura puede ir cambiando durante el desarrollo del proyecto.
+En desarrollo durante el curso 2026/2027.
 
----
+## Autor
 
-## 🎯 Objetivo
-
-El objetivo de este proyecto es desarrollar una **solución informática funcional** que permita aplicar de forma práctica los conocimientos adquiridos durante el ciclo de **Desarrollo de Aplicaciones Multiplataforma**.
-
-El proyecto integrará diferentes áreas del desarrollo de software, desde el análisis y diseño hasta la programación, gestión de datos, interfaces, pruebas y documentación.
-
----
-
-## 🛠️ Tecnologías
-
-Las tecnologías utilizadas dependerán de las necesidades del proyecto y se irán añadiendo durante su desarrollo.
-
-Entre ellas pueden encontrarse:
-
-* 💻 Lenguajes de programación
-* 🗄️ Bases de datos
-* 🌐 Tecnologías web
-* 📱 Desarrollo multiplataforma
-* 🔧 Git y GitHub
-* 🎨 Herramientas de diseño
-* 🧪 Herramientas de pruebas
-
----
-
-## 📌 Estado del proyecto
-
-🚧 **En desarrollo**
-
-El proyecto se irá actualizando durante el curso **2026-2027**.
-
----
-
-## 👨‍💻 Autor
-
-**Valentín**
-
-Estudiante de **2º DAM**.
-
+**Valentín Antonio De Gennaro** · Estudiante de 2.º de DAM en Valencia
+[valentindg.com](https://valentindg.com) · [Portafolio](https://portafolio.valentindg.com) · [LinkedIn](https://www.linkedin.com/in/valentindg)
